@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bio data Page</title>
+<style>
+table tr,td,th {border: 2px solid black;}
+</style>
+</head>
+<body>
+<h1>Nandini Yadav</h1>
+<h2>Summary</h2>
+<p>I have completed highschool in Maharashtra and currently pursuing Computer Science in a University. 
+A dedicated and enthusiastic computer science student with a passion for coding and editing. 
+Eager to apply technical skils and creativity o the real world projects and contribute to the field of technology. I love video and photo editing, with a keen eye for detail and I am passionate 
+about experimenting with new recipes and creating meals</p>
+<img
+<h3>Education background</h3>
+<table>
+<tbody>
+<tr>
+<th>Sr No.</th>
+<th>College</th>
+<th>Percentage</th>
+</tr>
+<tr>
+<td>1</td>
+<td>HSC</td>
+<td>89</td>
+</tr>
+<tr>
+<td>2</td>
+<td>SSC</td>
+<td>91</td>
+</tr>
+</tbody>
+</table>
+<h3>Languages and Technology</h3>
+<ul>
+<li>HTML</li>
+<li>C++</li>
+<li>C</li>
+<li>Python</li>
+<li>Javascript</li>
+<li>Web Development</li>
+<li>Mobile App Development</li>
+</ul>
+<h3>My project link: </h3>
+</body>
+</html>
